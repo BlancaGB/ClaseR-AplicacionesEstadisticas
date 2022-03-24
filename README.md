@@ -13,14 +13,14 @@ Para trabajar con la documentación de este repositorio es recomendable obtener 
 
 R es un lenguaje de programación principalmente orientado al análisis estadístico y visualización de información cuantitativa y cualitativa y publicado como software libre con licencia GNU-GPL.
 
-## Instalar R y la interfaz RStudio
+## Instalar R y RStudio
 
 ### Paso 1. Instalar R 
 * Si utilizáis Windows, se puede descargar el instalador desde la web: http://cran.es.r-project.org/bin/windows/base/.
 * Si utilizáis Mac, en la web: http://cran.es.r-project.org/bin/macosx/
 * Y si utilizáis Linux, posiblemente esté disponible en el gestor de aplicaciones. En todo caso, la web para Linux es: http://cran.es.r-project.org/bin/linux/.
 
-### Paso 2. Instalar RStudio 
+### Paso 2. Instalar la interfaz RStudio 
 
 Una interfaz gráfica de R recomendable es [RStudio](https://www.rstudio.com/products/rstudio/ "RStudio title"). Podéis descargar el instalador desde [aquí](https://www.rstudio.com/products/rstudio/download/ "aquí"). Os aconsejo que leáis esta breve [introducción](https://support.rstudio.com/hc/en-us/articles/200484448-Editing-and-Executing-Code "introducción title").
 
