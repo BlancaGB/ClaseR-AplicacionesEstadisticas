@@ -1,6 +1,6 @@
 # R para aplicaciones estadísticas 
 
-Este repositorio incluye material docente, datos y código para clases introductorias a R como herramienta de análisis estadístico. 
+Este repositorio incluye material docente, datos y código empleados en clases de introducción a R para aplicaciones estadísticas. 
 
 ## Cómo usar esta documentación
 
