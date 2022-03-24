@@ -1,6 +1,6 @@
 # R para aplicaciones estadísticas 
 
-Este repositorio incluye material docente, datos y código empleados en clases de introducción a R para aplicaciones estadísticas. 
+Este repositorio incluye material docente, datos y código empleados en clases de introducción a R para aplicaciones estadísticas. Este material está bajo una licencia [Creative Commons CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons CC-BY-SA 4.0 title").
 
 ## 1. Cómo usar esta documentación
 
