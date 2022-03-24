@@ -16,8 +16,8 @@ R es un lenguaje de programación principalmente orientado al análisis estadís
 ## 3. Instalar R y RStudio
 
 ### 3.1 Paso 1: Instalar R 
-* Si utilizáis Windows, se puede descargar el instalador desde la web: http://cran.es.r-project.org/bin/windows/base/.
-* Si utilizáis Mac, en la web: http://cran.es.r-project.org/bin/macosx/
+* Si utilizáis Windows, se puede descargar el instalador desde: http://cran.es.r-project.org/bin/windows/base/.
+* Si utilizáis Mac, desde: http://cran.es.r-project.org/bin/macosx/
 * Y si utilizáis Linux, posiblemente esté disponible en el gestor de aplicaciones. En todo caso, la web para Linux es: http://cran.es.r-project.org/bin/linux/.
 
 ### 3.2 Paso 2: Instalar la interfaz RStudio 
