@@ -26,9 +26,7 @@ Una interfaz gráfica de R recomendable es [RStudio](https://www.rstudio.com/pro
 
 ##  4. Documentación
 
-Podéis consultar el [manual introductorio](https://cran.r-project.org/doc/manuals/R-intro.html "manual introductorio title"), los [manuales oficiales](https://cran.r-project.org/manuals.html "manuales oficiales title") y los [manuales externos](https://cran.r-project.org/other-docs.html "manuales externos title"). También es muy recomendable el agregador de blogs sobre R [R-bloggers](https://www.r-bloggers.com/ "R-bloggers")
-
-Se recomienda consultar también el [curso](https://github.com/oscarperpinan/R "curso title") del Prof. Oscar Perpiñán de la UPM para practicar con más ejemplos en R. 
+Podéis consultar el [manual introductorio](https://cran.r-project.org/doc/manuals/R-intro.html "manual introductorio title"), los [manuales oficiales](https://cran.r-project.org/manuals.html "manuales oficiales title") y los [manuales externos](https://cran.r-project.org/other-docs.html "manuales externos title"). También es muy recomendable el agregador de blogs sobre R [R-bloggers](https://www.r-bloggers.com/ "R-bloggers") Se recomienda consultar también el [curso](https://github.com/oscarperpinan/R "curso title") del Prof. Oscar Perpiñán de la UPM para practicar con más ejemplos en R. 
 
 ## 5. Paquetes de R 
 
