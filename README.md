@@ -28,6 +28,8 @@ Una interfaz gráfica de R recomendable es [RStudio](https://www.rstudio.com/pro
 
 Podéis consultar el [manual introductorio](https://cran.r-project.org/doc/manuals/R-intro.html "manual introductorio title"), los [manuales oficiales](https://cran.r-project.org/manuals.html "manuales oficiales title") y los [manuales externos](https://cran.r-project.org/other-docs.html "manuales externos title"). También es muy recomendable el agregador de blogs sobre R [R-bloggers](https://www.r-bloggers.com/ "R-bloggers")
 
+Se recomienda consultar también el [curso](https://github.com/oscarperpinan/R "curso title") del Prof. Oscar Perpiñán para practicar con un mayor número de ejemplos en R. 
+
 ## 5. Paquetes de R 
 
 Una de las grandes riquezas de R es la cantidad de paquetes (más de 4000 actualmente) que amplían sus funcionalidades. La lista completa está en http://cran.es.r-project.org/web/packages/. En esta documentación emplearemos algunos de los más utilizados para representaciones gráficas y análisis de datos estadísticos. 
