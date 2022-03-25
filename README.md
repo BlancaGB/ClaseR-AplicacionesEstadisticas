@@ -35,7 +35,7 @@ Una de las grandes riquezas de R es la cantidad de paquetes (más de 4000 actual
 
 ## 2. Herramientas estadísticas en R para dispositivos médicos 
 
-En la clase vamos a aplicar herramientas estadísticas de R que se utilizan comúnmente en la evaluación de dispositivos médicos. El objetivo es aprender a desarrollar un enfoque estadístico sólido para el análisis de datos al entender cómo seleccionar la herramienta adecuada para un escenario dado y cómo interpretar correctamente los resultados. 
+En la clase vamos a aplicar métodos estadísticos en R que se utilizan comúnmente en la evaluación de dispositivos médicos. El objetivo es aprender a desarrollar un enfoque estadístico sólido para el análisis de datos al entender cómo seleccionar la herramienta adecuada para un escenario dado y cómo interpretar correctamente los resultados. 
 
 El alumno/a aprenderá a: 
 1. Importar datos y exportar resultados fácilmente.
