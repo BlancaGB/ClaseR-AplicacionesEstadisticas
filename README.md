@@ -33,7 +33,7 @@ Podéis consultar el [manual introductorio](https://cran.r-project.org/doc/manua
 
 Una de las grandes riquezas de R es la cantidad de paquetes (más de 4000 actualmente) que amplían sus funcionalidades. La lista completa está en http://cran.es.r-project.org/web/packages/. En esta documentación emplearemos algunos de los más utilizados para representaciones gráficas y análisis de datos estadísticos. 
 
-## 2 R como herramienta estadística para dispositivos médicos 
+## 2. Herramientas estadísticas en R para dispositivos médicos 
 
 En la clase vamos a aplicar las herramientas de R que se utilizan comúnmente en la evaluació de dispositivos médicos. Se dearrollarán enfoques estadísticos sólidos para el análisis de datos al entender cómo seleccionar la herramienta adecuada para un escenario dado y cómo interpretar correctamente los resultados. Se aprendrá a importar datos y exportar resultados fácilmente.
 
