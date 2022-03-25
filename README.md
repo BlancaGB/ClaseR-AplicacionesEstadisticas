@@ -45,3 +45,28 @@ El alumno/a aprenderá a:
 4. Evaluar una muestra aleatoria de los productos de un lote en la inspección final para determinar si el lote de productos debe despacharse. 
 
 En todos los casos se hace énfasis en tomar decisiones de desarrollo/manufactura acertadas mediante la aplicación práctica de las técnicas estadísticas comúnmente utilizadas en la industria de los dispositivos médicos.
+
+Los temas de la clase incluyen:
+
+* Importación y formato de los datos
+* Gráficas de barras
+* Histogramas
+* Gráficas de caja
+* Gráficas de dispersión
+* Determinación de la potencia y el tamaño de la muestra
+* Pruebas t
+* Pruebas de equivalencia
+* Pruebas de proporciones
+* Intervalos de tolerancia
+
+* Gráficas de control de variables y atributos
+* Regresión lineal 
+* ANOVA de un solo factor
+* ANOVA de múltiples variables
+* DOE
+* Análisis de concordancia de atributos
+* Estudio R&R del sistema de medición
+* Muestreo de aceptación por atributos
+* Análisis de capacidad de datos normales y no normales
+
+
