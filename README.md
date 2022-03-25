@@ -35,12 +35,13 @@ Una de las grandes riquezas de R es la cantidad de paquetes (más de 4000 actual
 
 ## 2. Herramientas estadísticas en R para dispositivos médicos 
 
-En la clase vamos a aplicar herramientas estadísticas de R que se utilizan comúnmente en la evaluación de dispositivos médicos. El objetivo es aprender a desarrollar un enfoque estadístico sólido para el análisis de datos al entender cómo seleccionar la herramienta adecuada para un escenario dado y cómo interpretar correctamente los resultados. Se aprendrá a importar datos y exportar resultados fácilmente.
+En la clase vamos a aplicar herramientas estadísticas de R que se utilizan comúnmente en la evaluación de dispositivos médicos. El objetivo es aprender a desarrollar un enfoque estadístico sólido para el análisis de datos al entender cómo seleccionar la herramienta adecuada para un escenario dado y cómo interpretar correctamente los resultados. 
 
-El alumno/a aprenderá: 
-1. Las bases de importantes conceptos estadísticos para determinar si un proceso está fuera del objetivo, si dos medias son significativamente diferentes y para demostrar que un cambio en el proceso no afecta significativamente una respuesta crítica. 
-2. A desarrollar las habilidades necesarias para evaluar y certificar correctamente los sistemas de medición. 
-3. A utilizar importantes herramientas de análisis de capacidad para evaluar la calidad de sus productos en relación con las especificaciones internas. 
-4. A evaluar una muestra aleatoria de los productos de un lote en la inspección final para determinar si el lote de productos debe despacharse. 
+El alumno/a aprenderá a: 
+1. Importar datos y exportar resultados fácilmente.
+1. Entender las bases de conceptos estadísticos para determinar si un proceso está fuera del objetivo, si dos medias son significativamente diferentes y para demostrar que un cambio en el proceso no afecta significativamente una respuesta crítica. 
+2. Desarrollar las habilidades necesarias para evaluar y certificar correctamente los sistemas de medición. 
+3. Utilizar importantes herramientas de análisis de capacidad para evaluar la calidad de sus productos en relación con las especificaciones internas. 
+4. Evaluar una muestra aleatoria de los productos de un lote en la inspección final para determinar si el lote de productos debe despacharse. 
 
 En todos los casos se hace énfasis en tomar decisiones de desarrollo/manufactura acertadas mediante la aplicación práctica de las técnicas estadísticas comúnmente utilizadas en la industria de los dispositivos médicos.
