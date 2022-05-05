@@ -67,6 +67,8 @@ Los temas de la clase incluyen:
 
 ## 3. Preliminares 
 
+Ir al [curso](https://www.uv.es/vcoll/preliminares.html#primeras-ideas "curso title") del Prof. Vicente Coll de la UPV, donde se cubren los contenidos de esta sección que reviseramos brevemente, para pasar a continuación a un ejemplo práctico. 
+
 ### 3.1 Instalar R y RStudio (localmente) o usar R Studio en la nube 
 
 ### 3.2 Entorno de trabajo de RStudio.
@@ -78,11 +80,16 @@ Los temas de la clase incluyen:
 * Configuración del directorio de trabajo (Fijar directorio o R Project)
 * Instalar y cargar paquetes 
 
+### 3.3 EJERCICIO "PREMILINARES"
+
+
 ## 4. Conceptos básicos de R 
+
+Ir al [curso](https://www.uv.es/vcoll/preliminares.html#primeras-ideas "curso title") del Prof. Vicente Coll de la UPV, donde se cubren los contenidos de esta sección que reviseramos brevemente, para pasar a continuación a un ejemplo práctico. 
 
 * Operaciones básicas 
 * Vectores, matrices, listas, factores, data frame, funciones 
 * Importar y exportar datos 
 * (Procesar los datos (Tydiverse))
 
-
+### 4.1 EJERCICIO "CONCEPTOS BÁSICOS"
