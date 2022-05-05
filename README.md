@@ -80,7 +80,7 @@ Ir al [curso](https://www.uv.es/vcoll/preliminares.html#primeras-ideas "curso ti
 * Configuración del directorio de trabajo (Fijar directorio o R Project)
 * Instalar y cargar paquetes 
 
-### Script en R Studio Cloud: LMBB_01_PREMILINARES
+### Script en R Studio Cloud: LMBB_01_Preliminares
 
 ## 4. Conceptos básicos de R 
 
@@ -91,7 +91,7 @@ Ir al [curso](https://www.uv.es/vcoll/preliminares.html#primeras-ideas "curso ti
 * Importar y exportar datos 
 * (Procesar los datos (Tydiverse))
 
-### 4.1 Script en R Studio Cloud: LMBB_02_CONCEPTOSBASICOS
+### 4.1 Script en R Studio Cloud: LMBB_02_ConceptosBasicos
 
 ## 5. Gráficos base 
 
@@ -103,10 +103,21 @@ Ir a la sección 6.2 del [curso](https://www.uv.es/vcoll/preliminares.html#prime
 * Diagrama de barras 
 * Guardar y exportar gráficos 
 
-### 5.1 Script en R Studio Cloud: LMBB_03_GRAFICOS
+### 5.1 Script en R Studio Cloud: LMBB_03_Graficos
 
 ## 6. R Markdown 
 
 Ir a la sección 7 del [curso](https://www.uv.es/vcoll/preliminares.html#primeras-ideas "curso title") del Prof. Vicente Coll de la UPV, donde se cubren los contenidos de esta sección que reviseramos brevemente, para pasar a continuación a un ejemplo práctico. 
 
-### 6.1 Script en R Studio Cloud: LMBB_04_MARKDOWN
+### 6.1 Script en R Studio Cloud: LMBB_04_Markdown
+
+## 7. Estadística - tests 
+
+### 7.1 Script en R Studio Cloud: LMBB_05_Estadistica_Tests
+
+## 8. Estadística - correlaciones 
+
+### 8.1 Script en R Studio Cloud: LMBB_06_Estadistica_Correlaciones 
+
+
+
