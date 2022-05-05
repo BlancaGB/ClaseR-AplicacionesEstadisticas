@@ -91,7 +91,7 @@ Ir al [curso](https://www.uv.es/vcoll/preliminares.html#primeras-ideas "curso ti
 * Importar y exportar datos 
 * (Procesar los datos (Tydiverse))
 
-### Script en R Studio Cloud: LMBB_02_CONCEPTOSBASICOS
+### 4.1 Script en R Studio Cloud: LMBB_02_CONCEPTOSBASICOS
 
 ## 5. Gráficos base 
 
@@ -103,10 +103,10 @@ Ir a la sección 6.2 del [curso](https://www.uv.es/vcoll/preliminares.html#prime
 * Diagrama de barras 
 * Guardar y exportar gráficos 
 
-### Script en R Studio Cloud: LMBB_03_GRAFICOS
+### 5.1 Script en R Studio Cloud: LMBB_03_GRAFICOS
 
 ## 6. R Markdown 
 
 Ir a la sección 7 del [curso](https://www.uv.es/vcoll/preliminares.html#primeras-ideas "curso title") del Prof. Vicente Coll de la UPV, donde se cubren los contenidos de esta sección que reviseramos brevemente, para pasar a continuación a un ejemplo práctico. 
 
-### Script en R Studio Cloud: LMBB_04_MARKDOWN
+### 6.1 Script en R Studio Cloud: LMBB_04_MARKDOWN
