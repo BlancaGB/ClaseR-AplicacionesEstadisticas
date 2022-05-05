@@ -43,7 +43,7 @@ Podéis consultar el [manual introductorio](https://cran.r-project.org/doc/manua
 
 Una de las grandes riquezas de R es la cantidad de paquetes (más de 4000 actualmente) que amplían sus funcionalidades. La lista completa está en http://cran.es.r-project.org/web/packages/. En esta documentación emplearemos algunos de los más utilizados para representaciones gráficas y análisis de datos estadísticos. 
 
-## 2. Objetivos y mecánica del curso
+## 2. Objetivos y mecánica de la práctica
 
 En la clase práctica de Introducción a R vamos a aplicar métodos estadísticos ue se utilizan comúnmente en el análisis de datos. En la clase: 
 
