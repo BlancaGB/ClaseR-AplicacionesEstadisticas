@@ -25,6 +25,14 @@ R es un lenguaje de programación principalmente orientado al análisis estadís
 
 Una interfaz gráfica de R recomendable es [RStudio](https://www.rstudio.com/products/rstudio/ "RStudio title"). Podéis descargar el instalador desde [aquí](https://www.rstudio.com/products/rstudio/download/ "aquí"). Os aconsejo que leáis esta breve [introducción](https://support.rstudio.com/hc/en-us/articles/200484448-Editing-and-Executing-Code "introducción title").
 
+#### 1.3.3. Ayuda adicional para la Instalación de R y RStudio 
+
+Tutoriales de Youtube que explican cómo realizar los pasos 1 y 2: 
+
+* Si utilizáis Windows,  https://www.youtube.com/watch?v=TFGYlKvQEQ4 
+* Si utilizáis Mac,  https://www.youtube.com/watch?v=LanBozXJjOk 
+* Si utilizáis Linux,  https://www.youtube.com/watch?v=3ni-jP2qEWg 
+
 ###  1.4 Documentación
 
 Podéis consultar el [manual introductorio](https://cran.r-project.org/doc/manuals/R-intro.html "manual introductorio title"), los [manuales oficiales](https://cran.r-project.org/manuals.html "manuales oficiales title") y los [manuales externos](https://cran.r-project.org/other-docs.html "manuales externos title"). También es muy recomendable el agregador de blogs sobre R [R-bloggers](https://www.r-bloggers.com/ "R-bloggers") Se recomienda consultar también el [curso](https://github.com/oscarperpinan/R "curso title") del Prof. Oscar Perpiñán de la UPM para practicar con más ejemplos en R. 
@@ -33,18 +41,14 @@ Podéis consultar el [manual introductorio](https://cran.r-project.org/doc/manua
 
 Una de las grandes riquezas de R es la cantidad de paquetes (más de 4000 actualmente) que amplían sus funcionalidades. La lista completa está en http://cran.es.r-project.org/web/packages/. En esta documentación emplearemos algunos de los más utilizados para representaciones gráficas y análisis de datos estadísticos. 
 
-## 2. Herramientas estadísticas en R para dispositivos médicos 
+## 2. Objetivos y mecánica del curso
 
-En la clase vamos a aplicar métodos estadísticos en R que se utilizan comúnmente en la evaluación de dispositivos médicos. El objetivo es aprender a desarrollar un enfoque estadístico sólido para el análisis de datos al entender cómo seleccionar la herramienta adecuada para un escenario dado y cómo interpretar correctamente los resultados. 
+En la clase práctica de Introducción a R vamos a aplicar métodos estadísticos ue se utilizan comúnmente en el análisis de datos. En la clase: 
 
-El alumno/a aprenderá a: 
-1. Importar datos y exportar resultados fácilmente.
-1. Entender las bases de conceptos estadísticos para determinar si un proceso está fuera del objetivo, si dos medias son significativamente diferentes y para demostrar que un cambio en el proceso no afecta significativamente una respuesta crítica. 
-2. Desarrollar las habilidades necesarias para evaluar y certificar correctamente los sistemas de medición. 
-3. Utilizar importantes herramientas de análisis de capacidad para evaluar la calidad de sus productos en relación con las especificaciones internas. 
-4. Evaluar una muestra aleatoria de los productos de un lote en la inspección final para determinar si el lote de productos debe despacharse. 
-
-En todos los casos se hace énfasis en tomar decisiones de desarrollo/manufactura acertadas mediante la aplicación práctica de las técnicas estadísticas comúnmente utilizadas en la industria de los dispositivos médicos.
+* El alumno/a aprenderá a utilizar R para cargar datos, modificarlos, hacer gráficos y tablas, e informes en Rmarkdown.
+* Se persigue que el curso sea fundamentalmente práctico, pero se necesita un mínimo de conocimiento sobre el funcionamiento de determinados aspectos y también hay que conocer un poco la jerga que se utiliza en la comunidad R.
+* En lugar de presentar todos los pormenores de R de manera lineal, se irán presentando distintos aspectos de R conforme se vayan necesitando; es decir, no vamos a presentar R como un lenguaje de programación sino como una herramienta para hacer análisis estadísticos.
+* En la sección 1 de este documento tenéis todos los materiales: tutoriales, algunos datos, etc. 
 
 Los temas de la clase incluyen:
 
@@ -55,18 +59,11 @@ Los temas de la clase incluyen:
 * Gráficas de dispersión
 * Determinación de la potencia y el tamaño de la muestra
 * Pruebas t
-* Pruebas de equivalencia
-* Pruebas de proporciones
 * Intervalos de tolerancia
-
 * Gráficas de control de variables y atributos
-* Regresión lineal 
-* ANOVA de un solo factor
-* ANOVA de múltiples variables
-* DOE
-* Análisis de concordancia de atributos
-* Estudio R&R del sistema de medición
-* Muestreo de aceptación por atributos
-* Análisis de capacidad de datos normales y no normales
+* Regresión lineal por mínimos cuadrados 
+
+## 3. Preliminares 
+
 
 
