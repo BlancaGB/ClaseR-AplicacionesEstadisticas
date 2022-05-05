@@ -35,7 +35,9 @@ Tutoriales de Youtube que explican cómo realizar los pasos 1 y 2:
 
 ###  1.4 Documentación
 
-Podéis consultar el [manual introductorio](https://cran.r-project.org/doc/manuals/R-intro.html "manual introductorio title"), los [manuales oficiales](https://cran.r-project.org/manuals.html "manuales oficiales title") y los [manuales externos](https://cran.r-project.org/other-docs.html "manuales externos title"). También es muy recomendable el agregador de blogs sobre R [R-bloggers](https://www.r-bloggers.com/ "R-bloggers") Se recomienda consultar también el [curso](https://github.com/oscarperpinan/R "curso title") del Prof. Oscar Perpiñán de la UPM para practicar con más ejemplos en R, así como el [curso](https://www.uv.es/vcoll/preliminares.html#primeras-ideas "curso title") del Prof. Vicente Coll de la UPV. 
+Podéis consultar el [manual introductorio](https://cran.r-project.org/doc/manuals/R-intro.html "manual introductorio title"), los [manuales oficiales](https://cran.r-project.org/manuals.html "manuales oficiales title") y los [manuales externos](https://cran.r-project.org/other-docs.html "manuales externos title"). También es muy recomendable el agregador de blogs sobre R [R-bloggers](https://www.r-bloggers.com/ "R-bloggers") Se recomienda consultar también para practicar con ejemplos básicos en R:
+* El [curso](https://github.com/oscarperpinan/R "curso title") del Prof. Oscar Perpiñán de la UPM. 
+* El [curso](https://www.uv.es/vcoll/preliminares.html#primeras-ideas "curso title") del Prof. Vicente Coll de la UPV. 
 
 ### 1.5 Paquetes de R 
 
