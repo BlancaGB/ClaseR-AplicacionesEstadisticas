@@ -45,7 +45,7 @@ Una de las grandes riquezas de R es la cantidad de paquetes (más de 4000 actual
 
 ## 2. Objetivos y mecánica de la práctica
 
-En la clase práctica de Introducción a R vamos a aplicar métodos estadísticos ue se utilizan comúnmente en el análisis de datos. En la clase: 
+En la clase práctica de Introducción a R vamos a aplicar métodos estadísticos que se utilizan comúnmente en el análisis de datos. En la clase: 
 
 * El alumno/a aprenderá a utilizar R para cargar datos, modificarlos, hacer gráficos y tablas, e informes en Rmarkdown.
 * Se persigue que el curso sea fundamentalmente práctico, pero se necesita un mínimo de conocimiento sobre el funcionamiento de determinados aspectos y también hay que conocer un poco la jerga que se utiliza en la comunidad R.
