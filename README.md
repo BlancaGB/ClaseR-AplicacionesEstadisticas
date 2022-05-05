@@ -80,8 +80,7 @@ Ir al [curso](https://www.uv.es/vcoll/preliminares.html#primeras-ideas "curso ti
 * Configuración del directorio de trabajo (Fijar directorio o R Project)
 * Instalar y cargar paquetes 
 
-### 3.3 EJERCICIO "PREMILINARES"
-
+### Script en R Studio Cloud: LMBB_01_PREMILINARES
 
 ## 4. Conceptos básicos de R 
 
@@ -92,4 +91,22 @@ Ir al [curso](https://www.uv.es/vcoll/preliminares.html#primeras-ideas "curso ti
 * Importar y exportar datos 
 * (Procesar los datos (Tydiverse))
 
-### 4.1 EJERCICIO "CONCEPTOS BÁSICOS"
+### Script en R Studio Cloud: LMBB_02_CONCEPTOSBASICOS
+
+## 5. Gráficos base 
+
+Ir a la sección 6.2 del [curso](https://www.uv.es/vcoll/preliminares.html#primeras-ideas "curso title") del Prof. Vicente Coll de la UPV, donde se cubren los contenidos de esta sección que reviseramos brevemente, para pasar a continuación a un ejemplo práctico. 
+
+* Histograma
+* Boxplot 
+* Diagrama de dispersión
+* Diagrama de barras 
+* Guardar y exportar gráficos 
+
+### Script en R Studio Cloud: LMBB_03_GRAFICOS
+
+## 6. R Markdown 
+
+Ir a la sección 7 del [curso](https://www.uv.es/vcoll/preliminares.html#primeras-ideas "curso title") del Prof. Vicente Coll de la UPV, donde se cubren los contenidos de esta sección que reviseramos brevemente, para pasar a continuación a un ejemplo práctico. 
+
+### Script en R Studio Cloud: LMBB_04_MARKDOWN
