@@ -121,6 +121,7 @@ https://rstudio.cloud/spaces/244370/content/all?sort=name_asc
 https://rstudio.cloud/spaces/244370/content/all?sort=name_asc
 
 https://bookdown.org/dietrichson/metodos-cuantitativos/prueba-de-independencia-o-asociaci%C3%B3n.html
+https://www.cienciadedatos.net/documentos/12_t-test
 
 ## 8. Estadística - correlaciones 
 
