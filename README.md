@@ -67,5 +67,22 @@ Los temas de la clase incluyen:
 
 ## 3. Preliminares 
 
+### 3.1 Instalar R y RStudio (localmente) o usar R Studio en la nube 
+
+### 3.2 Entorno de trabajo de RStudio.
+
+* Consola
+* Scripts
+* Entorno
+* Miscelánea
+* Configuración del directorio de trabajo (Fijar directorio o R Project)
+* Instalar y cargar paquetes 
+
+## 4. Conceptos básicos de R 
+
+* Operaciones básicas 
+* Vectores, matrices, listas, factores, data frame, funciones 
+* Importar y exportar datos 
+* (Procesar los datos (Tydiverse))
 
 
